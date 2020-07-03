@@ -101,7 +101,7 @@ tqdm==4.32.1
 traitlets==4.3.2
 urllib3==1.24.1
 wcwidth==0.1.7
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.4.2
 wrapt==1.11.1
 -e git+https://github.com/thu-ml/zhusuan@4932e225331c7ff615ec54cad0d115fa1e371955#egg=zhusuan
