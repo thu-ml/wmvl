@@ -3,7 +3,7 @@
 ```
 @InProceedings{wang20a,
   title = {A Wasserstein Minimum Velocity Approach to Learning Unnormalized Models},
-  author = {Wang, Ziyu and Cheng, Shuyu and Yueru, Li and Zhu, Jun and Zhang, Bo},
+  author = {Wang, Ziyu and Cheng, Shuyu and Li, Yueru and Zhu, Jun and Zhang, Bo},
   booktitle = {International Conference on Artificial Intelligence and Statistics},
   pages = {3728--3738},
   year = {2020},
